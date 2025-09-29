@@ -3,17 +3,16 @@
 </p>
 
 <p align="center">
-  <h1 align="center">🎮 A passionate game developer with deep interest in XR | AI | Graphics</h1>
+  <h1 align="center">🎮 A passionate game developer with highly interest in XR | AI | Graphics</h1>
 </p>
----
 
-## 🚀 My Current Project
+## 🚀 My Current Indie Game
 - Gun-fu FPS inspired by John Wick
 - My responsibilities include programming, designing, and production.
   
 ### Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48"/>
+    <img src="https://www.linkedin.com/in/yuxianghua/" alt="LinkedIn" height="48"/>
   </a>
 </p>
