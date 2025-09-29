@@ -8,7 +8,8 @@
 
 ## 🚀 My Current Indie Game
 - Gun-fu FPS inspired by John Wick
-- My responsibilities include programming, designing, and production.
+- My responsibilities include programming, designing, and production
+- 🌐 Steam Page (Coming Soon)
   
 ### Connect with me:
 <p>
