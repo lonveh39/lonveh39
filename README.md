@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Yuxiang Hua
 
-<!--
-**lonveh39/lonveh39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Indie FPS Game Developer | 🎓 UCSB Statistics Student
 
-Here are some ideas to get you started:
+## 🚀 My Current Project
+- Gun-fu FPS inspired by John Wick
+- Core mechanics: Mozambique Drill, CAR system, CQC combat
+- Building with Unity + C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🎥 Watch Devlog](https://youtube.com/...) | [🌐 Steam Page (Coming Soon)](https://...)
+
+## 🛠 Tech Stack
+- Unity, C#, Blender  
+- Git, GitHub, Shader Graph, URP  
+
+## 📫 Contact
+- Email: yourname@example.com  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
