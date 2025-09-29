@@ -1,18 +1,23 @@
-# 👋 Hi, I'm Yuxiang Hua
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Chris Hua</h1>
+</p>
 
-🎮 Indie FPS Game Developer | 🎓 UCSB Statistics Student
+<p align="center">
+  <em>A passionate Full-Stack / AI Engineer building scalable, AI-powered applications.</em>
+</p>
 
-## 🚀 My Current Project
-- Gun-fu FPS inspired by John Wick
-- Core mechanics: Mozambique Drill, CAR system, CQC combat
-- Building with Unity + C#
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-[🎥 Watch Devlog](https://youtube.com/...) | [🌐 Steam Page (Coming Soon)](https://...)
+---
 
-## 🛠 Tech Stack
-- Unity, C#, Blender  
-- Git, GitHub, Shader Graph, URP  
+- 🗂️ All of my projects are available at **https://YOUR_GITHUB_USERNAME.github.io/**
+- 📬 How to reach me: **YOUR_EMAIL@example.com**
 
-## 📫 Contact
-- Email: yourname@example.com  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+### Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="48"/>
+  </a>
+</p>
